@@ -3,8 +3,8 @@
 # 🐍 College Python Corner
 
 [![Python](https://img.shields.io/badge/python-3.x-blue?logo=python)](https://www.python.org/)  
-[![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?color=green&logo=github)](https://github.com/raz-x/The-End)  
-[![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo-name?color=purple)](https://github.com/raz-x/The-End)
+[![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?color=green&logo=github)](https://github.com/raz-x/The-End/tree/main/Lab%20manual)  
+[![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo-name?color=purple)](https://github.com/raz-x/The-End/tree/main/Lab%20manual)
 
 ---
 
