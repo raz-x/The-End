@@ -36,8 +36,7 @@ This is **my personal Python playground** — a place where college assignments,
 ### 🚀 Let’s Connect
 
 If you’re curious about my work or just want to share Python tips,  
-feel free to check out my GitHub profile: [your-username](https://github.com/raz-x)
-
+feel free to check out my GitHub profile: [raz-x](https://github.com/raz-x)
 ---
 
 **Keep experimenting, keep learning, keep having fun!**
